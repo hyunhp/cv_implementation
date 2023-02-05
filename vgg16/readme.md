@@ -1,4 +1,4 @@
-Paper:VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
+**Paper: VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION**
 
 Purpose: Implement the VGG 16 architecture into code
 
@@ -9,4 +9,5 @@ Purpose: Implement the VGG 16 architecture into code
 - VGG16_hyunhp : Implemented code
 
 Updated Date: 05th Feburary, 2023
+
 Started Date: 05th Feburary, 2023
