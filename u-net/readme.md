@@ -6,7 +6,7 @@ Purpose: Implement the VGG 16 architecture into code
 
 **U-Net_review_hyunhp** : Review paper 
 
-Implemented code : [On-going]
+**U-Net_hyunhp** : Implemented code [On-going]
 
 Updated Date: 12th Feburary, 2023
 
